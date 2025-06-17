@@ -49,7 +49,7 @@ The dataset is sourced from Kaggle and contains the following columns:
 
 The .sql file below shows a summary of the key SQL queries and the insights obtained from them.
 
-📌 Usage
+## 📌 Usage
 Clone the repository:
 
 git clone https://github.com/njer1nj0r0ge236/IMDB-Top-1000-SQL.git
@@ -59,10 +59,10 @@ Use the provided SQL scripts to create and query the imdb_top_1000 table.
 
 Explore the queries and review the insights included in each SQL block.
 
-📄 License
+## 📄 License
 This project is licensed under the MIT License.
 
-📬 Contact
+## 📬 Contact
 If you have any questions, feedback, or collaboration ideas:
 Email: njorogediana236@gmail.com
 LinkedIn: https://www.linkedin.com/in/marydiana-njoroge-41b236244/
