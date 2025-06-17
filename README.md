@@ -1,5 +1,5 @@
 # IMDB-Top-1000-SQL
-# IMDb SQL Analysis
+# IMDb Analysis with SQL
 
 **Day 2 of the #22in7 Data Challenge**
 
@@ -47,7 +47,7 @@ The dataset is sourced from Kaggle and contains the following columns:
 
 ## Queries and Insights
 
-The .sql file below shows a summary of the key SQL queries and the insights obtained from them.
+The .sql file above shows a summary of the key SQL queries and the insights obtained from them.
 
 ## 📌 Usage
 Clone the repository:
